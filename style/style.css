@@ -1,0 +1,21 @@
+*{
+    box-sizing: border-box;
+}
+html, body{
+    width: 100vw;
+    height: 100vh;
+    font-family: 'Newsreader', serif;
+}
+.container{
+    width: 60%;
+    margin: 0 auto;
+}
+nav{
+    background-color: #ffff;
+}
+.nav-container{
+    display: flex;
+}
+.brand-logo{
+    width: 200px;
+}
