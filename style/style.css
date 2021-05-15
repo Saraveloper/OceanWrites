@@ -31,7 +31,7 @@ nav{
     margin-left: 30px;
 }
 .nav-items a{
-    text-decoration: none;
+    text-decoration: none;color: #a35709;
 }
 .nav-items li .brand-logo{
     margin-bottom: 20px;
