@@ -15,7 +15,20 @@ nav{
 }
 .nav-container{
     display: flex;
+    padding: 20px;
 }
 .brand-logo{
     width: 200px;
+}
+.nav-items{
+    margin-left: auto;
+}
+.nav-items ul{
+    display: flex;
+}
+.nav-items a{
+    text-decoration: none;
+}
+.nav-items li .brand-logo{
+    margin-bottom: 20px;
 }
