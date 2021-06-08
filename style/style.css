@@ -10,13 +10,17 @@ html, body{
     width: 60%;
     margin: 0 auto;
 }
+p{
+    font-size: 16px;
+    line-height: 1.4;
+}
 nav{
     background-color: #ffff;
 }
 .nav-container{
     display: flex;
     align-items: center;
-    padding: 20px;
+    padding: 20px 0;
 }
 .brand-logo{
     width: 200px;
@@ -44,6 +48,20 @@ nav{
 .active{
     border-bottom: solid 5px #ff8303;
 }
-hr .footer{
-    border-top: solid 2px #ff8303;
-}
+/*footer*/
+
+hr.footer {
+    border-top: 1px solid #ff8303;
+  }
+  .icons span{
+      margin-right: 20px;
+  }
+
+  .icons i{
+      font-size: 30px;
+      color: #a35709;
+  }
+/*main*/
+main{
+    padding: 50px 0;
+    }
