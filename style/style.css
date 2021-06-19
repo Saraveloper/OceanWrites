@@ -80,11 +80,12 @@ hr.home{
     display: grid;
     grid-template-columns: 1fr 1fr;
     grid-gap: 20px;
+    margin-top: 20px;
 }
 .blog-card-item{
     width: 100%;
     overflow: hidden;
-    background-color: #ff8303;
+    background-color: bisque;
 }
 .blog-image{
     width: 100%;
@@ -110,4 +111,20 @@ hr.home{
     font-size: 14px;
     font-weight: 600;
     margin-top: -17px;
+}
+.card-contents{
+    padding: 20px;
+    color: #a35709;
+}
+.card-contents h3{
+    font-weight: 700;
+    font-size: 18px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.small{
+    font-size: 14px;
+}
+.small i{
+    font-size: 6px;
 }
