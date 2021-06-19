@@ -10,15 +10,18 @@ html, body{
     width: 60%;
     margin: 0 auto;
 }
-h1{
+
+.container h1{
     font-size: 36px;
     color: #a35709;
-    font-weight: bold;
+    font-weight: 600;
 }
+
 p{
     font-size: 16px;
     line-height: 1.4;
 }
+
 nav{
     background-color: #ffff;
 }
@@ -70,3 +73,6 @@ hr.footer {
 main{
     padding: 50px 0;
     }
+hr.home{
+    margin: 20px 0;
+}
