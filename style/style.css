@@ -85,6 +85,7 @@ hr.home{
 }
 .blog-cards a{
     text-decoration: none;
+    background-color: bisque;
 }
 .blog-card-item{
     width: 100%;
@@ -131,4 +132,28 @@ hr.home{
 }
 .small i{
     font-size: 6px;
+}
+.blog-details h1{
+    font-size: 36px;
+    margin-top: 14px;
+    margin-bottom: 16px;
+}
+.blog-details h3{
+    font-size: 24px;
+    margin-top: 12px;
+    margin-bottom: 12px;
+}
+.blog-details p{
+    font-size: 16px;
+    margin-top: 14px;
+    line-height: 1.5;
+}
+.blog-details img{
+    width: 100%;
+    height: auto;
+}
+.blog-details .title{
+    font-size: 42px;
+    margin-bottom: 30px;
+    margin-top: 30px;
 }
