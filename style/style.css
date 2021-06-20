@@ -185,3 +185,15 @@ hr.home{
   border-bottom: 1px solid #ddd;
   border-left: 1px solid #ddd;;
   }
+  .form-container{
+      margin-top: 50px;
+  }
+  .form-group{
+      width: 100%;
+      margin-top: 20px;
+  }
+  .form-group label{
+      display: block;
+      font-size: 18px;
+      font-weight: 500;
+  }
