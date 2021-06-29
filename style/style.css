@@ -180,7 +180,7 @@ hr.home{
     border-collapse: collapse;
   }
 .about-details th, td, tr {
-    padding: 16px;
+    padding: 15px;
   text-align: center;
   border-bottom: 1px solid #ddd;
   border-left: 1px solid #ddd;;
